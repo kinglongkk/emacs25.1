@@ -1,1 +1,5 @@
-# emacs25.1
+# myEmacs
+include all of my emacs files 
+* env 
+* config files 
+* bin
